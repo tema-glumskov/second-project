@@ -17,8 +17,10 @@ header {
 }
 .product-card {
   width: 1024px;
-  display: flex;
-  background-color: #e0d6d6
+  display: flex;      
+  background-color: #e0d6d6;
+  margin: 20px auto;
+  justify-content: space-evenly;
 }
 
 .text-block {
@@ -26,7 +28,8 @@ header {
 }
 
 .product-image {
-  display: inline-block
+  display: inline-block;
+  
   
 }
 
